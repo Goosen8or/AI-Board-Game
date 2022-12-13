@@ -1,9 +1,4 @@
-/*
- * Main.cpp
- *
- *  Created on: 10/08/2014
- *      Author: dongmo
- */
+
 
 #include<iostream>
 #include<time.h>
