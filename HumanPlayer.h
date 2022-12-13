@@ -1,8 +1,3 @@
-/*
- *
- *  Created on: 25/02/2022
- *      Author: dongmo
- */
 
 #ifndef HUMANPLAYER_H_
 #define HUMANPLAYER_H_
